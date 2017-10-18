@@ -3,6 +3,8 @@
 The full documentation can be viewed here:
 http://canopy.readthedocs.io/en/latest/
 
+Requires: Python 3
+
 Getting started, quickly:
 
 ```python
